@@ -28,7 +28,7 @@
 <div style="display: flex; gap:10px; align-items: center;" >
   <div>
   <h4 >:video_game: Tela inicial e Fim de jogo</h4>
-  <img src="https://user-images.githubusercontent.com/77207253/167469535-750c1517-ef11-4965-88dd-62f7b82cc25c.png"  width="800"/>
+  <img src="https://user-images.githubusercontent.com/77207253/167469535-750c1517-ef11-4965-88dd-62f7b82cc25c.png"  width="600"/>
   </div>
   <div>
   
