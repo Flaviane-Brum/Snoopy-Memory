@@ -25,7 +25,7 @@
 <hr />
 
   <h2 >:iphone:  Mobile</h2>
-<div style="display: flex; justify-content: center;gap:20px; align-items: center;" >
+<div style="display: flex; gap:10px; align-items: center;" >
   <div>
   <h4 >:video_game: Tela inicial</h4>
   <img src="https://user-images.githubusercontent.com/77207253/167445755-52f7d477-561d-4deb-b2cf-15a72a5ef73b.png"  height="700"/>
