@@ -8,8 +8,8 @@
 <h4 align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</h4>
 <h4 align="center">
 <a align="center" href=" https://snoopy-memory.vercel.app/" > Clique para visitar o projeto
- </h4>
 </a>
+ </h4>
 <hr />
   <h2 id="preview">:movie_camera: Desktop</h2>
 <div align="center">
