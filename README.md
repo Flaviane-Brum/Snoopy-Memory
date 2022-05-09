@@ -27,12 +27,11 @@
   <h2 >:iphone:  Mobile</h2>
 <div style="display: flex; gap:10px; align-items: center;" >
   <div>
-  <h4 >:video_game: Tela inicial</h4>
-  <img src="https://user-images.githubusercontent.com/77207253/167445755-52f7d477-561d-4deb-b2cf-15a72a5ef73b.png"  height="650"/>
+  <h4 >:video_game: Tela inicial e Fim de jogo</h4>
+  <img src="https://user-images.githubusercontent.com/77207253/167469535-750c1517-ef11-4965-88dd-62f7b82cc25c.png"  width="800"/>
   </div>
   <div>
-   <h4 >:video_game: Tela fim de jogo</h4>
-  <img src="https://user-images.githubusercontent.com/77207253/167460648-2252a028-98d9-408c-a9f3-2a6726bee492.png" height="650" />
+  
   </div>
   </div>
   <br><br>
