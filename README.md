@@ -7,7 +7,7 @@
 <h2 id="objetivo">:dart:  Objetivo</h2>
 
 <p align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</p>
-<a align="center" style="display:block;" href="" > Clique para visitar o projeto
+<a align="center" style="display:block;text-align:center" href="" > Clique para visitar o projeto
 </a>
 <hr />
 
@@ -46,4 +46,17 @@
 - React Hooks <br>
 <hr />
 
-Desenvolvido com :hearts: por Flaviane Brum.
+## 🦄 Autor<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Flaviane-Brum">
+        <img src="https://avatars.githubusercontent.com/u/77207253?v=4" width="100px;" alt="Foto de Flaviane Brum no GitHub"/><br>
+        <sub>
+          <b>Flaviane Brum</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
