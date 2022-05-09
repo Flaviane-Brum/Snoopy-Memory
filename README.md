@@ -6,8 +6,11 @@
 </div>
 <h2 id="objetivo">:dart:  Objetivo</h2>
 <h4 align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</h4>
-<a style="display:block; text-align:center;" href="https://snoopy-memory.vercel.app/" > Clique para visitar o projeto
+<h4 align="center">
+<a align="center"  href="https://snoopy-memory.vercel.app/" > Clique para visitar o projeto
 </a>
+</h4>
+
 <hr />
   <h2 id="preview">:movie_camera: Desktop</h2>
 <div align="center">
