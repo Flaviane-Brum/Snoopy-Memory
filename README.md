@@ -7,7 +7,7 @@
 <h2 id="objetivo">:dart:  Objetivo</h2>
 <h4 align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</h4>
 <h4 align="center">
-<a align="center" href="" > Clique para visitar o projeto
+<a align="center" href=" https://flaviane-brum.github.io/Snoopy-Memory" > Clique para visitar o projeto
  </h4>
 </a>
 <hr />
