@@ -5,12 +5,12 @@
 
 </div>
 <h2 id="objetivo">:dart:  Objetivo</h2>
-
-<p align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</p>
-<a align="center" style="display:block;text-align:center" href="" > Clique para visitar o projeto
+<h4 align="center">🚀 O projeto é um jogo da memória com o tema do Snoopy</h4>
+<h4 align="center">
+<a align="center" href="" > Clique para visitar o projeto
+ </h4>
 </a>
 <hr />
-
   <h2 id="preview">:movie_camera: Desktop</h2>
 <div align="center">
   <div>
@@ -28,11 +28,11 @@
 <div style="display: flex; gap:10px; align-items: center;" >
   <div>
   <h4 >:video_game: Tela inicial</h4>
-  <img src="https://user-images.githubusercontent.com/77207253/167445755-52f7d477-561d-4deb-b2cf-15a72a5ef73b.png"  height="700"/>
+  <img src="https://user-images.githubusercontent.com/77207253/167445755-52f7d477-561d-4deb-b2cf-15a72a5ef73b.png"  height="650"/>
   </div>
   <div>
    <h4 >:video_game: Tela fim de jogo</h4>
-  <img src="https://user-images.githubusercontent.com/77207253/167460648-2252a028-98d9-408c-a9f3-2a6726bee492.png" height="700" />
+  <img src="https://user-images.githubusercontent.com/77207253/167460648-2252a028-98d9-408c-a9f3-2a6726bee492.png" height="650" />
   </div>
   </div>
   <br><br>
