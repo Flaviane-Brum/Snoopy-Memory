@@ -3,7 +3,7 @@ import afterLogo from "./assets/after.webp";
 import bg from "./assets/bg5.webp";
 
 export const Container = styled.main`
-  background: #a3d5f0 url(${bg}) no-repeat;
+  background: hsl(201, 72%, 79%) url(${bg}) no-repeat;
   height: 100vh;
   display: flex;
   padding: 1.5rem;
@@ -38,11 +38,11 @@ export const Info = styled.div`
   flex-direction: column;
   padding: 1rem;
   border-radius: 5px;
-  background: #fef08a;
+  background: hsl(53, 98%, 77%);
   max-width: 250px;
   align-items: flex-start;
   justify-content: space-around;
-  border: 2px solid #713f12;
+  border: 2px solid hsl(28.4, 72.5%, 25.7%);
   flex: 1;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
   &::after {
@@ -105,14 +105,4 @@ export const Grid = styled.div`
   @media (max-width: 540px) {
     grid-template-columns: repeat(3, 1fr);
   }
-`;
-
-export const Score = styled.div`
-  background-color: #713f12;
-  text-align: center;
-  padding: 1rem;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 `;

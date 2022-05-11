@@ -30,7 +30,7 @@ export const Container = styled.div`
       ? "#DC2626"
       : "linear-gradient(180deg, #fef08a 0%, #fde047 100%)"};
   height: 100px;
-  border: 2px solid #713f12;
+  border: 2px solid hsl(28.4, 72.5%, 25.7%);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   display: flex;

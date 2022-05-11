@@ -8,13 +8,13 @@ export const Container = styled.div`
 `;
 export const Small = styled.small`
   display: block;
-  color: #a16207;
+  color: hsl(35.5, 91.7%, 32.9%);
   font-weight: 500;
 `;
 export const LabelInfo = styled.span`
   display: flex;
   font-size: 36px;
-  color: #713f12;
+  color: hsl(28.4, 72.5%, 25.7%);
   margin-bottom: 1rem;
   gap: 0.5rem;
   @media (max-width: 750px) {

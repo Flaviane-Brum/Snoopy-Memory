@@ -6,14 +6,14 @@ export const Container = styled.button`
   justify-content: center;
   text-align: right;
   padding: 1rem 1.5rem;
-  color: #713f12;
+  color: hsl(28.4, 72.5%, 25.7%);
   border-radius: 5px;
   font-weight: bold;
   font-size: 1rem;
   text-transform: uppercase;
   cursor: pointer;
   align-items: center;
-  border: 2px solid #713f12;
+  border: 2px solid hsl(28.4, 72.5%, 25.7%);
   background: linear-gradient(180deg, #fef08a 0%, #fde047 100%);
   transition: all 0.2s;
   box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
